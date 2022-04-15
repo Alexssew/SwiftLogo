@@ -4,7 +4,7 @@
 //
 //  Created by Alex on 15/04/2022.
 //
-// WE are to use a grid of 10x10 i.e 0.1, 0.2 ...1 on boxy x and y axes. with 0,0 at topleading corner as usual.
+// Using a grid of 10x10 i.e 0.1, 0.2 ...1 on both x and y axes. with 0,0 at topleading corner as usual.
 
 import SwiftUI
 

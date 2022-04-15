@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		FAA2B24C28098C7A00E3691E /* SwiftLogoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA2B24B28098C7A00E3691E /* SwiftLogoApp.swift */; };
-		FAA2B24E28098C7A00E3691E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA2B24D28098C7A00E3691E /* ContentView.swift */; };
 		FAA2B25028098C7C00E3691E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA2B24F28098C7C00E3691E /* Assets.xcassets */; };
 		FAA2B25328098C7C00E3691E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAA2B25228098C7C00E3691E /* Preview Assets.xcassets */; };
+		FAA2B25A28098C9500E3691E /* SwiftLogo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA2B25928098C9500E3691E /* SwiftLogo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		FAA2B24828098C7A00E3691E /* SwiftLogo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftLogo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAA2B24B28098C7A00E3691E /* SwiftLogoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLogoApp.swift; sourceTree = "<group>"; };
-		FAA2B24D28098C7A00E3691E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FAA2B24F28098C7C00E3691E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAA2B25228098C7C00E3691E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FAA2B25928098C9500E3691E /* SwiftLogo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftLogo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				FAA2B24B28098C7A00E3691E /* SwiftLogoApp.swift */,
-				FAA2B24D28098C7A00E3691E /* ContentView.swift */,
+				FAA2B25928098C9500E3691E /* SwiftLogo.swift */,
 				FAA2B24F28098C7C00E3691E /* Assets.xcassets */,
 				FAA2B25128098C7C00E3691E /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FAA2B24E28098C7A00E3691E /* ContentView.swift in Sources */,
+				FAA2B25A28098C9500E3691E /* SwiftLogo.swift in Sources */,
 				FAA2B24C28098C7A00E3691E /* SwiftLogoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
